@@ -3,7 +3,7 @@ Library to helper text manage
 
 ## Instalation
 ````
-npm install string-manager
+npm install text-lib
 ````
 
 ## How to Use 

@@ -1,6 +1,6 @@
 {
   "name": "npm-text-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lib to handle text js",
   "main": "dist/index.js",
   "scripts": {
