@@ -1,0 +1,30 @@
+{
+  "name": "npm-text-lib",
+  "version": "1.0.0",
+  "description": "Lib to handle text js",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asreds/npm-text-lib.git"
+  },
+  "keywords": [
+    "Text",
+    "helper"
+  ],
+  "author": "Asih Priyatno (hikmahsharing.id)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asreds/npm-text-lib/issues"
+  },
+  "homepage": "https://github.com/asreds/npm-text-lib#readme"
+}
